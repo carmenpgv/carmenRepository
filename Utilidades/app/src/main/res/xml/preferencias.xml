@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:textSize="20sp"
+        android:title="@string/strBuscaminas">
+        <SwitchPreference
+            android:id="@+id/swPrefsDificultad"
+            android:defaultValue="false"
+            android:key="swPrefsDificultad"
+            android:title="@string/strDificil" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Creador de escenarios">
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="cbbb"
+            android:title="Breaking Bad" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="cbaa"
+            android:title="Ace Attorney" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="cbjojos"
+            android:title="JoJo's Bizarre Adventure" />
+    </PreferenceCategory>
+</PreferenceScreen>

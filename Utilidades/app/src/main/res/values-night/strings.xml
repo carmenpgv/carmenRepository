@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="strCalculadora">Calculadora</string>
+    <string name="strConversorMonedas">Conversor de monedas</string>
+    <string name="strListaCompra">Lista de la compra</string>
+</resources>

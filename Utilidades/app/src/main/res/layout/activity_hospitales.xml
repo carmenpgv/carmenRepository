@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_green"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".hospital.HospitalesActivity">
+
+    <TextView
+        android:id="@+id/tvHospitalesHospital"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/btnHospitalesBuscar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/strHospitalMasCercano" />
+
+    <TextView
+        android:id="@+id/tvListaHospitales"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/strListaHospitales"
+        android:textSize="25sp"
+        android:visibility="invisible" />
+
+    <ListView
+        android:id="@+id/lvHospitales"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible" />
+</LinearLayout>

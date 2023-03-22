@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/activity_add.xml" value="0.3255208333333333" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/activity_buscaminas.xml" value="0.24320652173913043" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/activity_calculator.xml" value="0.25317028985507245" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/activity_compra.xml" value="0.1514690982776089" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/activity_conversor.xml" value="0.25" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/activity_detail.xml" value="0.23052536231884058" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/activity_escenarios.xml" value="0.2629193109700816" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/activity_hospitales.xml" value="0.25" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/activity_image.xml" value="0.23052536231884058" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/layout/fila.xml" value="0.15780141843971632" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/menu/lvcompramenu_contextual.xml" value="0.3255208333333333" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/menu/main_menu.xml" value="0.3255208333333333" />
+        <entry key="..\:/DAM/2/ProgramacionMultimedia/Utilidades/app/src/main/res/xml/preferencias.xml" value="0.2629193109700816" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

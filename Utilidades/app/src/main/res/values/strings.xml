@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Util-idades</string>
+    <string name="strCalculadora">Calculadora</string>
+    <string name="strConversorMonedas">Conversor de monedas</string>
+    <string name="strListaCompra">Lista de la compra</string>
+    <string name="strEuro">Euro(€)</string>
+    <string name="strDolar">Dolar ($)</string>
+    <string name="strRupia">Rupia (₹)</string>
+    <string name="strYen">Yen (¥)</string>
+    <string name="strConvertir">CONVERTIR</string>
+    <string name="strAdd">AÑADIR</string>
+    <string name="strDetail">DETALLE</string>
+    <string name="strNombre">Nombre</string>
+    <string name="strMarca">Marca</string>
+    <string name="strSeccion">Sección</string>
+    <string name="strPrecio">Precio</string>
+    <string name="strDetalle">Detalle</string>
+    <string name="strBorrar">Borrar</string>
+    <string name="strBusqueda">Búsqueda: </string>
+    <string name="strReintentar">REINTENTAR</string>
+    <string name="strBuscaminas">Buscaminas</string>
+    <string name="strHospitalMasCercano">BUSCA MI HOSPITAL MÁS CERCANO</string>
+    <string name="strListaHospitales">Aquí tienes una lista con todos los hospitales de Zaragoza</string>
+    <string name="strDificil">Difícil</string>
+    <string name="strEscenario">CREAR ESCENARIO</string>
+    <string name="strMiHospital">Mi hospital más cercano</string>
+    <string name="strCreadorDeEscenarios">Creador de escenarios</string>
+</resources>
