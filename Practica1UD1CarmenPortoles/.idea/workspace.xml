@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Practica1UD1CarmenPortoles:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf271c54-4ffa-4d3a-9a9b-cbb172db99ee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2H2liBjaYdKmnLOZqhU1LmXRy4k" />
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="177" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="193" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DAM\2\Acceso a datos\programación\Practica1UD1CarmenPortoles\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DAM\2\Acceso a datos\programación\Practica1UD1CarmenPortoles" />
+      <recent name="D:\DAM\2\Acceso a datos\programación\Practica1UD1CarmenPortoles\src" />
+      <recent name="D:\DAM\2\Acceso a datos\programación\Practica1UD1CarmenPortoles\src\com\carmenportoles\practica1" />
+      <recent name="D:\DAM\2\Acceso a datos\programación\Practica1UD1CarmenPortoles\src\com\carmenportoles\practica1\gui" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carmenportoles.practica1.Principal" />
+      <module name="Practica1UD1CarmenPortoles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carmenportoles.practica1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf271c54-4ffa-4d3a-9a9b-cbb172db99ee" name="Default Changelist" comment="" />
+      <created>1667491183483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667491183483</updated>
+      <workItem from="1667491186919" duration="1355000" />
+      <workItem from="1667558804306" duration="468000" />
+      <workItem from="1667580410265" duration="1685000" />
+      <workItem from="1667590689847" duration="4864000" />
+      <workItem from="1667602023631" duration="925000" />
+      <workItem from="1667654040647" duration="619000" />
+      <workItem from="1667812407218" duration="32000" />
+      <workItem from="1667848678500" duration="4700000" />
+      <workItem from="1667992609681" duration="604000" />
+      <workItem from="1668021319440" duration="983000" />
+      <workItem from="1668066808912" duration="4874000" />
+      <workItem from="1668107602460" duration="3386000" />
+      <workItem from="1668169044311" duration="402000" />
+      <workItem from="1668173626163" duration="29000" />
+      <workItem from="1668194877799" duration="15902000" />
+      <workItem from="1668354032269" duration="4886000" />
+      <workItem from="1668409422404" duration="994000" />
+      <workItem from="1668410669075" duration="226000" />
+      <workItem from="1668416323597" duration="3537000" />
+      <workItem from="1668503523774" duration="676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
